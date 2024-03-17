@@ -24,3 +24,6 @@ Clone or download the repository to your local machine and run the `main.py` fil
 
 ## Gameplay
 Navigate the bird through the gaps between the pipes by timing your jumps carefully. Each successful pass through a gap earns you one point. The game ends when the bird collides with a pipe or reaches the top or bottom of the screen.
+
+##future work-
+will try to add reinforcement learning part to this game.
